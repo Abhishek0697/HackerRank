@@ -1,2 +1,2 @@
 # HackerRank
-Solutions to Problem Statements at HackerRank
+Solutions to various Problem Statements at HackerRank
